@@ -2,9 +2,9 @@
 - 👀 I’m interested in technical writing and web development
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ndomaprecious@gmail.com
+- 📫 How to reach me ndomaprecious95@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I code for proffessional, I write for fun.
+- ⚡ Fun fact: I code for proffessionaly, I write for fun.
 
 <!---
 preshenv/preshenv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
